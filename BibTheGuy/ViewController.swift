@@ -3,7 +3,6 @@
 //  BibTheGuy
 //
 //  Created by Lindsay Penkrat on 2/22/21.
-//
 
 import UIKit
 import AVFoundation
